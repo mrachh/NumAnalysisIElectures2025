@@ -1,3 +1,4 @@
+addpath ~/git/chebfun/
 eta = 0.01;
 ms = 'x';
 f = @(x) eta.^2./(x.^2 + eta^2);
