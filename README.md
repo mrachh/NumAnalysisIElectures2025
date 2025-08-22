@@ -1,4 +1,5 @@
 Some useful references for this Lecture series:
+------------------------------------------------
 
 [Comptools24](https://github.com/flatironinstitute/comptools24)
 Contains a cheat sheet for integral equations [here](https://github.com/flatironinstitute/comptools24/blob/main/IE_cheat_sheet.pdf)
@@ -12,6 +13,8 @@ Contains a cheat sheet for integral equations [here](https://github.com/flatiron
 [Andreas Klockner's lecture notes](https://andreask.cs.illinois.edu/Teaching/IntegralEquationsFall2013/)
 
 Text books:
+------------
+
 Kress - Linear integral equations
 
 Colton - Integral equation methods in scattering theory
