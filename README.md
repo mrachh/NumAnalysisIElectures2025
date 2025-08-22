@@ -13,7 +13,10 @@ Contains a cheat sheet for integral equations [here](https://github.com/flatiron
 
 Text books:
 Kress - Linear integral equations
+
 Colton - Integral equation methods in scattering theory
+
 Hsiao and Wendland - Boundary integral equations
+
 Gunther and Lee - Partial differential equations of mathematical physics
 
