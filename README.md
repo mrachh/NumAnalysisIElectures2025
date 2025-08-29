@@ -23,3 +23,7 @@ Hsiao and Wendland - Boundary integral equations
 
 Gunther and Lee - Partial differential equations of mathematical physics
 
+Nick Trefethen - Spectral Methods in MATLAB
+
+Nick Trefethen - Approximation theory and approximation practice
+
